@@ -5,7 +5,7 @@ import os
 def main():
     position = "Engineer"
     company = "Example Name"
-    template_file_path = "Cover Letter.docx"
+    template_file_path = "cover_letter_template.docx"
     output_file_path = f"Cover Letter - {company}.docx"
 
     variables = {
